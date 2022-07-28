@@ -1,4 +1,4 @@
-## Moodle Tricks
+# Moodle Tricks
 
 Les astuces répertoriées ici concernent
 
